@@ -1,0 +1,15 @@
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/bin/Debug/net7.0/Example001_NewConsole
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/bin/Debug/net7.0/Example001_NewConsole.deps.json
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/bin/Debug/net7.0/Example001_NewConsole.runtimeconfig.json
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/bin/Debug/net7.0/Example001_NewConsole.dll
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/bin/Debug/net7.0/Example001_NewConsole.pdb
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.csproj.AssemblyReference.cache
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.AssemblyInfoInputs.cache
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.AssemblyInfo.cs
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.csproj.CoreCompileInputs.cache
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.dll
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/refint/Example001_NewConsole.dll
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.pdb
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/Example001_NewConsole.genruntimeconfig.cache
+/Users/Alexander/Desktop/Учеба/Examples/Example001_NewConsole/obj/Debug/net7.0/ref/Example001_NewConsole.dll
